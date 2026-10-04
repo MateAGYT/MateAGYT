@@ -1,8 +1,8 @@
 <div align="center">
 
 # MateAG
-**Professional Developer & Systems Integrator**
 <br> <br><img src="https://komarev.com/ghpvc/?username=MateAGYT&label=profile%20views&color=1E90FF&style=for-the-badge&logo=elementary" alt="Profile views"/>
+**Professional Developer & Systems Integrator**
 
 [![Personal Website](https://img.shields.io/badge/Website-mateag.com-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://mateag.com/)
 [![About Me](https://img.shields.io/badge/About--Me-bio.mateag.com-2563EB?style=for-the-badge&logo=linktree&logoColor=white)](https://bio.mateag.com/)

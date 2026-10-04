@@ -5,7 +5,7 @@
 
 [![Personal Website](https://img.shields.io/badge/Website-mateag.com-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://mateag.com/)
 [![About Me](https://img.shields.io/badge/About--Me-bio.mateag.com-2563EB?style=for-the-badge&logo=linktree&logoColor=white)](https://bio.mateag.com/)
-[![Email](https://img.shields.io/badge/Contact-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mateag.com)
+[![Email](https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mateag.com)
 [![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mateag)
 
 </div>
@@ -28,7 +28,7 @@ I engineer tailor-made tools, maintain complex network infrastructures like **Mi
 | **System Scripting** | ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat-square&logo=gnu-bash&logoColor=white) ![VBScript](https://img.shields.io/badge/VBScript-00599C?style=flat-square&logo=visualstudio&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
 | **Remote Admin & Networking** | ![Bitvise SSH](https://img.shields.io/badge/Bitvise_SSH-2C3E50?style=flat-square&logo=ssh&logoColor=white) ![Termius](https://img.shields.io/badge/Termius-00599C?style=flat-square&logo=termius&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
-| **Developer Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Developer Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=accenture&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
 | **Integrations & Ecosystems** | ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) ![Minecraft Server Ops](https://img.shields.io/badge/Minecraft_Infrastructure-2E7D32?style=flat-square&logo=minecraft&logoColor=white) |
 
 ---

@@ -9,7 +9,7 @@
 [![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mateag)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=AD27F5&label=profile%20views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FMateAGYT%2Fviews&style=for-the-badge&logo=eye&logoColor=white" alt="Profile views"/>
+  <img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/MateAGYT/MateAGYT.json?color=AD27F5&style=for-the-badge&logo=eye&logoColor=white" alt="Profile views"/>
 </p>
 
 </div>

@@ -9,7 +9,7 @@
 [![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mateag)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MateAGYT&label=PROFILE+VIEWS&color=AD27F5&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/endpoint?url=https://badge-api.kavin.rocks/ghpvc/MateAGYT&logo=eye&logoColor=white&color=AD27F5&style=for-the-badge" alt="Profile views"/>
 </p>
 
 </div>

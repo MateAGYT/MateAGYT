@@ -45,6 +45,6 @@ I engineer tailor-made tools, maintain complex network infrastructures like **Mi
 
 *Open to new opportunities, custom software developments, and infrastructure challenges*
 
-<img src="https://komarev.com/ghpvc/?username=MateAGYT&label=profile%20views&color=1E90FF&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=MateAGYT&label=profile%20views&color=1E90FF&style=for-the-badge&logo=elementary" alt="Profile views"/>
 
 </div>

@@ -7,7 +7,9 @@
 [![About Me](https://img.shields.io/badge/About--Me-bio.mateag.com-2563EB?style=for-the-badge&logo=linktree&logoColor=white)](https://bio.mateag.com/)
 [![Email](https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mateag.com)
 [![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mateag)<br>
-<img src="https://komarev.com/ghpvc/?username=MateAGYT&label=profile%20views&color=1E90FF&style=for-the-badge&logo=elementary" alt="Profile views"/><br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MateAGYT&label=profile%20views&color=AD27F5&style=for-the-badge" alt="Profile views"/>
+</p>
 </div>
 
 ---

@@ -1,7 +1,7 @@
 <div align="center">
 
-# MateAG
-<br> <br><img src="https://komarev.com/ghpvc/?username=MateAGYT&label=profile%20views&color=1E90FF&style=for-the-badge&logo=elementary" alt="Profile views"/>
+# MateAG<br> <br><img src="https://komarev.com/ghpvc/?username=MateAGYT&label=profile%20views&color=1E90FF&style=for-the-badge&logo=elementary" alt="Profile views"/>
+
 **Professional Developer & Systems Integrator**
 
 [![Personal Website](https://img.shields.io/badge/Website-mateag.com-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://mateag.com/)

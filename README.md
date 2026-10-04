@@ -1,6 +1,6 @@
 <div align="center">
 
-# MateAG <br><img src="https://komarev.com/ghpvc/?username=MateAGYT&label=profile%20views&color=1E90FF&style=for-the-badge&logo=elementary" alt="Profile views"/>
+# MateAG 💻 <br><img src="https://komarev.com/ghpvc/?username=MateAGYT&label=profile%20views&color=1E90FF&style=for-the-badge&logo=elementary" alt="Profile views"/>
 
 **Professional Developer & Systems Integrator**
 

@@ -1,45 +1,66 @@
 <div align="center">
 
 # MateAG
-**Professional developer and programmer**.
+**Professional Developer & Systems Integrator**
 
-[![Personal Website](https://img.shields.io/badge/Website-27B7F5?style=for-the-badge&logo=cloudflare&logoColor=DC9D34)](https://mateag.com/)
-[![About Me](https://img.shields.io/badge/About--Me-27B7F5?style=for-the-badge&logo=linktree&logoColor=DC9D34)](https://bio.mateag.com/)
-[![Email](https://img.shields.io/badge/Email-27B7F5?style=for-the-badge&logo=gmail&logoColor=DC9D34)](mailto:contact@mateag.com)
-[![Discord](https://img.shields.io/badge/Discord-27B7F5?style=for-the-badge&logo=discord&logoColor=DC9D34)](https://discord.gg/mateag)
+[![Personal Website](https://img.shields.io/badge/Website-mateag.com-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)](https://mateag.com/)
+[![About Me](https://img.shields.io/badge/About--Me-bio.mateag.com-2563EB?style=for-the-badge&logo=linktree&logoColor=white)](https://bio.mateag.com/)
+[![Email](https://img.shields.io/badge/Contact-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mateag.com)
+[![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mateag)
 
 </div>
 
 ---
 
-## About
+## About Me
 
-**Developer & Programmer**, passionate about software development, custom automation scripts, and web projects. Focused on building efficient, functional, and well-optimized solutions. Always learning and experimenting with new technologies to bring every project to the next level.
+I am a **Developer & Systems Specialist** dedicated to crafting scalable web applications, robust backends, and custom automation infrastructure. My technical focus ranges from full-stack web architectures with Node.js and modern web standards to low-level system scripting, remote server administration, and database design.
 
-## Skills
+I engineer tailor-made tools, maintain complex network infrastructures like **Minecraft server environments**, and build **custom Discord bots** and integrations. By leveraging secure SSH tunnels and edge networks, I deliver rock-solid, high-performance systems built for real-world reliability.
 
-| Category | |
+---
+
+## Technical Stack & Expertise
+
+| Category | Technologies |
 |---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat-square&logo=gnu-bash&logoColor=white) ![VBScript](https://img.shields.io/badge/VBScript-00599C?style=flat-square&logo=visual-studio&logoColor=white) |
+| **Core Languages** | ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **System Scripting** | ![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=flat-square&logo=gnu-bash&logoColor=white) ![VBScript](https://img.shields.io/badge/VBScript-00599C?style=flat-square&logo=visualstudio&logoColor=white) |
 | **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) |
-| **Developer Tools** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Termius](https://img.shields.io/badge/Termius-00599C?style=flat-square&logo=termius&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Remote Admin & Networking** | ![Bitvise SSH](https://img.shields.io/badge/Bitvise_SSH-2C3E50?style=flat-square&logo=ssh&logoColor=white) ![Termius](https://img.shields.io/badge/Termius-00599C?style=flat-square&logo=termius&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white) |
+| **Developer Tools** | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| **Integrations & Ecosystems** | ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white) ![Minecraft Server Ops](https://img.shields.io/badge/Minecraft_Infrastructure-2E7D32?style=flat-square&logo=minecraft&logoColor=white) |
 
-## Projects
+---
 
-**[MateAG-Website](https://github.com/MateAGYT/MateAGYT)**
-> Personal website and interactive portfolio, optimized and hosted on Cloudflare infrastructure.
+## Featured Projects & Focus
 
-**[Tools & Scripts](https://github.com/MateAGYT)**
-> Collection of utilities, automation scripts, and custom tools developed in Python, Batch, and VBScript to streamline everyday workflows.
+### 🌐 **[MateAG Web Ecosystem](https://github.com/MateAGYT/MateAGYT)**
+> High-performance personal website and portfolio built with modern front-end tech, served globally via Cloudflare CDN and optimized for security and speed.
 
-[![View All Projects](https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-12383E?style=for-the-badge&logo=github&logoColor=DC9D34)](https://github.com/MateAGYT?tab=repositories)
+### ⚙️ **[Node.js Services & Discord Bots](https://github.com/MateAGYT)**
+> Custom server-side microservices, Discord integration utilities, and automation bots programmed in Node.js to streamline user interactions and platform governance.
+
+### 📜 **[Automation Scripts & System Tools](https://github.com/MateAGYT)**
+> Complete collection of helper utilities written in Python, Batch, and VBScript engineered to automate repetitive operating system tasks and simplify SSH management.
+
+### 🎮 **[Minecraft Infrastructure & Systems Design](https://github.com/MateAGYT)**
+> Advanced server network setup, custom plugin configurations, database syncing (MySQL), and remote management using Bitvise SSH and Termius.
+
+<br />
+
+<div align="center">
+
+[![View All Repositories](https://img.shields.io/badge/VIEW_ALL_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MateAGYT?tab=repositories)
+
+</div>
 
 ---
 
 <div align="center">
 
-*Open to new opportunities, projects, and collaborations*
+*Open to new opportunities, custom software developments, and infrastructure challenges*
 
-![Profile Views](https://komarev.com/ghpvc/?username=MateAGYT&label=PROFILE+VIEWS&color=DC9D34&style=for-the-badge&labelColor=12383E)
+![Profile Views](https://komarev.com/ghpvc/?username=MateAGYT&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge&labelColor=181717)
 
 </div>

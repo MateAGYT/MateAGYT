@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://mateag.com/assets/logo.png" width="900" alt="MateAG — Developer &amp; Programmer" />
+# MateAG
+**Professional developer and programmer**.
 
-[![Personal Website](https://img.shields.io/badge/Website-12383E?style=for-the-badge&logo=cloudflare&logoColor=DC9D34)](https://mateag.com/)
-[![About Me](https://img.shields.io/badge/About--Me-12383E?style=for-the-badge&logo=linktree&logoColor=DC9D34)](https://bio.mateag.com/)
-[![Email](https://img.shields.io/badge/Email-12383E?style=for-the-badge&logo=gmail&logoColor=DC9D34)](mailto:contact@mateag.com)
-[![Discord](https://img.shields.io/badge/Discord-12383E?style=for-the-badge&logo=discord&logoColor=DC9D34)](https://discord.gg/mateag)
+[![Personal Website](https://img.shields.io/badge/Website-27B7F5?style=for-the-badge&logo=cloudflare&logoColor=DC9D34)](https://mateag.com/)
+[![About Me](https://img.shields.io/badge/About--Me-27B7F5?style=for-the-badge&logo=linktree&logoColor=DC9D34)](https://bio.mateag.com/)
+[![Email](https://img.shields.io/badge/Email-27B7F5?style=for-the-badge&logo=gmail&logoColor=DC9D34)](mailto:contact@mateag.com)
+[![Discord](https://img.shields.io/badge/Discord-27B7F5?style=for-the-badge&logo=discord&logoColor=DC9D34)](https://discord.gg/mateag)
 
 </div>
 

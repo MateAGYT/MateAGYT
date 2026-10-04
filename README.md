@@ -33,22 +33,6 @@ I engineer tailor-made tools, maintain complex network infrastructures like **Mi
 
 ---
 
-## Featured Projects & Focus
-
-### 🌐 **[MateAG Web Ecosystem](https://github.com/MateAGYT/MateAGYT)**
-> High-performance personal website and portfolio built with modern front-end tech, served globally via Cloudflare CDN and optimized for security and speed.
-
-### ⚙️ **[Node.js Services & Discord Bots](https://github.com/MateAGYT)**
-> Custom server-side microservices, Discord integration utilities, and automation bots programmed in Node.js to streamline user interactions and platform governance.
-
-### 📜 **[Automation Scripts & System Tools](https://github.com/MateAGYT)**
-> Complete collection of helper utilities written in Python, Batch, and VBScript engineered to automate repetitive operating system tasks and simplify SSH management.
-
-### 🎮 **[Minecraft Infrastructure & Systems Design](https://github.com/MateAGYT)**
-> Advanced server network setup, custom plugin configurations, database syncing (MySQL), and remote management using Bitvise SSH and Termius.
-
-<br />
-
 <div align="center">
 
 [![View All Repositories](https://img.shields.io/badge/VIEW_ALL_PROJECTS-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MateAGYT?tab=repositories)

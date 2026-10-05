@@ -9,8 +9,9 @@
 [![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mateag)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MateAGYT&label=profile%20views&color=AD27F5&style=for-the-badge" alt="Profile views"/>
+  [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](#)
 </p>
+
 
 </div>
 

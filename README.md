@@ -8,7 +8,8 @@
 [![Email](https://img.shields.io/badge/Contact-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mateag.com)
 [![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mateag)
 
-[![Visits Badge](https://badges.pufler.dev/visits/mateagyt/badge-it)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/MateAGYT)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/MateAGYT)](https://badges.pufler.dev)
 
 </div>
 

@@ -9,7 +9,7 @@
 [![Discord](https://img.shields.io/badge/Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/mateag)
 
 <p align="center">
-  [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](#)
+  [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://github.com/MateAGYT)
 </p>
 
 
